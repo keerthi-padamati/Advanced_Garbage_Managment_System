@@ -5,5 +5,8 @@
 - React
 - HTML
 - CSS
-- 
+- JavaScript
+- Leaflet.js Library
+
+
 
