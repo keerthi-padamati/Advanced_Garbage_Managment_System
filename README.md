@@ -1,1 +1,2 @@
-AdvancedGarbage Managment System (Mini Project )
+## AdvancedGarbage Managment System (Mini Project )
+
