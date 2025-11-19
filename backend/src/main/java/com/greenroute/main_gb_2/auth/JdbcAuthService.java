@@ -5,7 +5,8 @@ import org.springframework.stereotype.Service;
 import java.util.Map;
 
 @Service
-public class JdbcAuthService {
+public class JdbcAuthService
+{
   private final JdbcTemplate jdbc;
   public JdbcAuthService(JdbcTemplate jdbc)
   {
