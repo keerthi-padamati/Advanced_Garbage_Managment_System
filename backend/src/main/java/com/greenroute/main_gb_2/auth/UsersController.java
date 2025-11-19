@@ -11,7 +11,7 @@ public class UsersController
   public UsersController(JdbcTemplate jdbc)
   {
      this.jdbc = jdbc; 
-    }
+  }
   @GetMapping public List<Map<String,Object>> list()
   { 
     return jdbc.queryForList("SELECT id, username, role, address, status FROM users"); 
